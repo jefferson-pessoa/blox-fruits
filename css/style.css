@@ -1,0 +1,104 @@
+*{
+    margin: 0;
+    border: 0;
+    padding: 0;
+
+}
+body{
+    width: 100%;
+}
+.bg-black{
+    background-color: black;
+}
+.text-white{
+    color: #fff
+}
+.text-center{
+    text-align: center;
+}
+nav ul{
+    list-style: none;
+}
+nav ul li{
+display: inline;
+}
+
+.brand{
+    padding-left: 10px;
+    padding-right: 56px;
+}
+.btn-topo{
+    margin:10px ;
+    padding: 10px;
+    background-color: #363636;
+    color: #fff;
+    cursor: pointer;
+}
+.btn-topo:hover{
+    margin:10px ;
+    padding: 10px;
+    background-color: #4d4d4d;
+    color: #fff;
+    cursor: pointer;
+}
+.img{
+width: 80%;
+}
+
+.red{
+    color: red;
+}
+.lista{
+  line-height: 35px;
+}
+.text.blox{
+    margin: 20px;
+    padding: 20px;
+}
+.green{
+    color: greenyellow;
+}
+.yelloy{
+    color: #FFDAB9;
+}
+.roxo{
+    color: purple;
+}
+.titulo{
+    color: #778899 ;
+}
+.borda{
+    width: 300px;
+    
+}
+.barcos{
+    width: 1100px;
+}
+
+.icon-fruta {
+   padding: 5px;
+   background-color: white;
+   border-radius: 8px;
+}
+
+.icon-fruta img{
+    width: 60px;
+}
+
+.icon-fruta a {
+    text-decoration: none;
+    font-size: 10px;
+    padding: 0;
+}
+
+.icon-fruta:hover {
+    background-color: greenyellow;
+}
+
+
+
+.bg {
+    background-color: red;
+
+    min-height: 100vh;
+}
