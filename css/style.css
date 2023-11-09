@@ -2,23 +2,28 @@
     margin: 0;
     border: 0;
     padding: 0;
-
 }
+
 body{
     width: 100%;
 }
+
 .bg-black{
     background-color: black;
 }
+
 .text-white{
     color: #fff
 }
+
 .text-center{
     text-align: center;
 }
+
 nav ul{
     list-style: none;
 }
+
 nav ul li{
 display: inline;
 }
@@ -27,6 +32,7 @@ display: inline;
     padding-left: 10px;
     padding-right: 56px;
 }
+
 .btn-topo{
     margin:10px ;
     padding: 10px;
@@ -34,6 +40,7 @@ display: inline;
     color: #fff;
     cursor: pointer;
 }
+
 .btn-topo:hover{
     margin:10px ;
     padding: 10px;
@@ -41,6 +48,7 @@ display: inline;
     color: #fff;
     cursor: pointer;
 }
+
 .img{
 width: 80%;
 }
@@ -51,26 +59,32 @@ width: 80%;
 .lista{
   line-height: 35px;
 }
+
 .text.blox{
     margin: 20px;
     padding: 20px;
 }
+
 .green{
     color: greenyellow;
 }
+
 .yelloy{
     color: #FFDAB9;
 }
+
 .roxo{
     color: purple;
 }
+
 .titulo{
     color: #778899 ;
 }
+
 .borda{
     width: 300px;
-    
 }
+
 .barcos{
     width: 1100px;
 }
@@ -94,8 +108,6 @@ width: 80%;
 .icon-fruta:hover {
     background-color: greenyellow;
 }
-
-
 
 .bg {
     background-color: red;
