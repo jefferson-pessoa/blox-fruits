@@ -107,3 +107,9 @@ width: 80%;
 
     min-height: 100vh;
 }
+
+.imagens{
+    padding: 5px;
+    width: 500px;
+    height: 500px;
+}
